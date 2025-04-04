@@ -38,7 +38,7 @@ e:\Academy PLP\Web Development V2\Testing Web
 ## How to Use
 
 1. Clone or download the repository to your local machine.
-2. Open `amtrying.html` in your web browser to view the website.
+2. Open `Hackathon1 Portfolio.html` in your web browser to view the website.
 3. Navigate through the sections using the navigation bar.
 4. Explore the projects and download the resume if needed.
 5. Use the contact form to send a message or find additional contact details.
